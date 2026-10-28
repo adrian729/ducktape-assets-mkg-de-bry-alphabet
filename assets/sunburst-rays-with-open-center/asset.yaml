@@ -1,0 +1,47 @@
+# descriptive: find it and understand it
+id: sunburst-rays-with-open-center
+title: Oval sunburst with open centre
+description: An oval ring of short radiating rays, faint gray on a transparent background, with the centre left empty. On the letter B sheet the glory surrounds the Hebrew Tetragrammaton at the upper right; the lettering is excluded here so the centre is open.
+type: ornament
+categories:
+  - geometric
+subjects:
+  - sunburst
+  - ray
+colors:
+  - gray
+  - cream
+facing: none
+composition: single-ornament
+
+# structural: how it is organised and related
+group: null
+render:
+  image: {}
+usage_notes:
+  - The open centre held a short word on the sheet; it takes a monogram or a few letters in a dark face.
+  - The ink is very light; it only reads on a pale background.
+display_width:
+  - 60
+  - 110
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: The rays are faint in the source and no pixel of the master is fully opaque, so the ornament is pale and low in contrast.
+master: master.png
+provenance:
+  method: native-ink-extraction
+  institution: Museum für Kunst und Gewerbe Hamburg
+  object_title: Der Buchstabe B, Blatt aus der Folge "Nova Alphati Effictio Historiis"
+  object_identifier: O1913.136
+  object_dimensions: 23,6 × 17,1 cm (sheet), 20,1 × 15 cm (plate)
+  date: "1595"
+  artist: Bry, Johann Theodor de
+  record_url: https://www.mkg-hamburg.de/en/object/dc00101865
+  image_url: https://www.mkg-hamburg.de/en/object/dc00101865/image-download/0
+  image_rights: LicenseRef-PDM
+  rights_url: https://creativecommons.org/publicdomain/mark/1.0/
+  source_sha256: 940798d28cbab372ff44c3b25d8e0fe4e9b6b86f816ef6190d2c12385ab60b43
+license: null

@@ -1,0 +1,49 @@
+# descriptive: find it and understand it
+id: urn-with-tall-curling-plume
+title: Smoking urn on a pedestal
+description: A plain cylindrical urn on a round pedestal, seen from the front, with a tall column of billowing smoke rising from the flames at its mouth and curling into rounded clouds that lean to the upper left. Engraved in brown line on a transparent background; the foot of the pedestal is cut flat where it met the letter's strapwork on the letter B sheet.
+type: ornament
+categories:
+  - scrollwork
+subjects:
+  - urn
+  - smoke
+  - plume
+colors:
+  - brown
+  - tan
+  - cream
+facing: none
+view: front
+composition: single-ornament
+
+# structural: how it is organised and related
+group: null
+render:
+  image: {}
+usage_notes:
+  - The pedestal is cut flat at the bottom; stand it on a rule or a baseline so the cut is hidden.
+display_width:
+  - 30
+  - 60
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: Cut from a low-resolution scan; the smoke is soft and a fragment of the adjoining strapwork remains at the lower left of the foot.
+master: master.png
+provenance:
+  method: native-source-extraction
+  institution: Museum für Kunst und Gewerbe Hamburg
+  object_title: Der Buchstabe B, Blatt aus der Folge "Nova Alphati Effictio Historiis"
+  object_identifier: O1913.136
+  object_dimensions: 23,6 × 17,1 cm (sheet), 20,1 × 15 cm (plate)
+  date: "1595"
+  artist: Bry, Johann Theodor de
+  record_url: https://www.mkg-hamburg.de/en/object/dc00101865
+  image_url: https://www.mkg-hamburg.de/en/object/dc00101865/image-download/0
+  image_rights: LicenseRef-PDM
+  rights_url: https://creativecommons.org/publicdomain/mark/1.0/
+  source_sha256: 940798d28cbab372ff44c3b25d8e0fe4e9b6b86f816ef6190d2c12385ab60b43
+license: null

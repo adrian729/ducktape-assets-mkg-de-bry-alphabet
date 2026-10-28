@@ -1,0 +1,50 @@
+# descriptive: find it and understand it
+id: flower-bouquet-from-decorated-initial
+title: Bouquet of flowers and buds
+description: An upright bunch of flowers engraved in brown line on a transparent background. A round many-petalled bloom sits at the top, a large open flower at the left, several closed buds and long pointed leaves spreading to both sides, and a cluster of stems gathered at the bottom. The vase that held it on the letter B sheet is excluded, so the stems end in a cut at the lower edge.
+type: ornament
+categories:
+  - floral
+  - botanical
+subjects:
+  - bouquet
+  - flower
+  - bud
+  - leaf
+colors:
+  - brown
+  - tan
+  - cream
+facing: none
+composition: single-ornament
+
+# structural: how it is organised and related
+group: null
+render:
+  image: {}
+usage_notes:
+  - The stems are cut flat at the bottom where the vase began; set the bouquet into a vase, a cup or behind a rule rather than leaving the cut visible.
+display_width:
+  - 50
+  - 100
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: Cut from a low-resolution scan; the fine petals and leaves blur above native size.
+master: master.png
+provenance:
+  method: ai-assisted-extraction
+  institution: Museum für Kunst und Gewerbe Hamburg
+  object_title: Der Buchstabe B, Blatt aus der Folge "Nova Alphati Effictio Historiis"
+  object_identifier: O1913.136
+  object_dimensions: 23,6 × 17,1 cm (sheet), 20,1 × 15 cm (plate)
+  date: "1595"
+  artist: Bry, Johann Theodor de
+  record_url: https://www.mkg-hamburg.de/en/object/dc00101865
+  image_url: https://www.mkg-hamburg.de/en/object/dc00101865/image-download/0
+  image_rights: LicenseRef-PDM
+  rights_url: https://creativecommons.org/publicdomain/mark/1.0/
+  source_sha256: 940798d28cbab372ff44c3b25d8e0fe4e9b6b86f816ef6190d2c12385ab60b43
+license: null

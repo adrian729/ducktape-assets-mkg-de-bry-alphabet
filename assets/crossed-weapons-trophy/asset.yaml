@@ -1,0 +1,52 @@
+# descriptive: find it and understand it
+id: crossed-weapons-trophy
+title: Trophy of crossed weapons
+description: A hanging trophy of arms engraved in brown line on a transparent background, the paper tone kept inside the outlines. A long bow curves across the bundle from upper left to lower right, several slender shafts and a hilted sword cross behind it, and a short tubular case points down at the bottom; the pieces are bound together at the centre. It was cut from the lower left of the letter B sheet, where it hung from the letter's strapwork by a cord with a tassel.
+type: ornament
+categories:
+  - scrollwork
+subjects:
+  - trophy
+  - weapon
+  - bow
+  - arrow
+  - sword
+colors:
+  - brown
+  - tan
+  - cream
+facing: none
+composition: single-ornament
+
+# structural: how it is organised and related
+group: null
+render:
+  image: {}
+related:
+  - { asset: mkg-de-bry-alphabet/foliate-trophy, role: companion }
+usage_notes:
+  - On the sheet this hangs at the lower left and the foliate trophy at the lower right; the two work as a matched pair flanking a title or a rule.
+display_width:
+  - 40
+  - 80
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: Cut from a low-resolution scan; soft at native size and blurred above it, and the binding at the centre is not legible.
+master: master.png
+provenance:
+  method: ai-assisted-extraction
+  institution: Museum für Kunst und Gewerbe Hamburg
+  object_title: Der Buchstabe B, Blatt aus der Folge "Nova Alphati Effictio Historiis"
+  object_identifier: O1913.136
+  object_dimensions: 23,6 × 17,1 cm (sheet), 20,1 × 15 cm (plate)
+  date: "1595"
+  artist: Bry, Johann Theodor de
+  record_url: https://www.mkg-hamburg.de/en/object/dc00101865
+  image_url: https://www.mkg-hamburg.de/en/object/dc00101865/image-download/0
+  image_rights: LicenseRef-PDM
+  rights_url: https://creativecommons.org/publicdomain/mark/1.0/
+  source_sha256: 940798d28cbab372ff44c3b25d8e0fe4e9b6b86f816ef6190d2c12385ab60b43
+license: null

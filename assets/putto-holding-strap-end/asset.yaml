@@ -1,0 +1,52 @@
+# descriptive: find it and understand it
+id: putto-holding-strap-end
+title: Winged putto holding a strap end
+description: A curly-haired winged putto sits facing the viewer with a cloth across his lap, his right arm stretched out to the left and his left hand raised to grip the curling end of a strapwork band at the upper right, which ends in a small animal head and has a flower-shaped pendant hanging from it; a small bud and leaf hang below his right hand. Engraved in brown line with the paper tone kept inside the figure, on a transparent background. On the letter B sheet he sits on the top of the letter's strapwork frame, which is excluded.
+type: illustration
+categories:
+  - humans
+  - fantasy
+subjects:
+  - putto
+  - wings
+  - finial
+  - pendant
+  - flower
+colors:
+  - brown
+  - tan
+  - cream
+facing: viewer
+view: front
+composition: single-figure
+
+# structural: how it is organised and related
+group: null
+render:
+  image: {}
+usage_notes:
+  - The strap end with the animal head is part of the letter's frame and is kept so the raised hand holds something; crop it at the wrist if only the figure is needed.
+display_width:
+  - 80
+  - 160
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: Cut from a low-resolution scan; soft at native size and blurred above it.
+master: master.png
+provenance:
+  method: native-source-extraction
+  institution: Museum für Kunst und Gewerbe Hamburg
+  object_title: Der Buchstabe B, Blatt aus der Folge "Nova Alphati Effictio Historiis"
+  object_identifier: O1913.136
+  object_dimensions: 23,6 × 17,1 cm (sheet), 20,1 × 15 cm (plate)
+  date: "1595"
+  artist: Bry, Johann Theodor de
+  record_url: https://www.mkg-hamburg.de/en/object/dc00101865
+  image_url: https://www.mkg-hamburg.de/en/object/dc00101865/image-download/0
+  image_rights: LicenseRef-PDM
+  rights_url: https://creativecommons.org/publicdomain/mark/1.0/
+  source_sha256: 940798d28cbab372ff44c3b25d8e0fe4e9b6b86f816ef6190d2c12385ab60b43
+license: null

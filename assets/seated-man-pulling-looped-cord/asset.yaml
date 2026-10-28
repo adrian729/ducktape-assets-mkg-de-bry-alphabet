@@ -1,0 +1,49 @@
+# descriptive: find it and understand it
+id: seated-man-pulling-looped-cord
+title: Seated man pulling a cord
+description: A nude man with a cloth draped over his shoulder and lap sits with his knees bent and his head thrown back, facing right, both arms raised to grip a thin cord that runs down past him; a small flower-shaped pendant hangs on the cord beside his hands, and a second cord with a small fruit cluster hangs below at the right. Engraved in brown line with the paper tone kept inside the figure, on a transparent background. On the letter B sheet he sits inside the lower bowl of the letter, which is excluded.
+type: illustration
+categories:
+  - humans
+subjects:
+  - human
+  - cord
+  - pendant
+colors:
+  - brown
+  - tan
+  - cream
+facing: right
+view: three-quarter
+composition: single-figure
+
+# structural: how it is organised and related
+group: null
+render:
+  image: {}
+usage_notes:
+  - The cord and the hanging ornaments at the right are part of the pose; crop them away only at the hands if the figure alone is needed.
+display_width:
+  - 60
+  - 120
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: Cut from a low-resolution scan; the hatching is soft and the outline of the raised arms is blurred.
+master: master.png
+provenance:
+  method: native-source-extraction
+  institution: Museum für Kunst und Gewerbe Hamburg
+  object_title: Der Buchstabe B, Blatt aus der Folge "Nova Alphati Effictio Historiis"
+  object_identifier: O1913.136
+  object_dimensions: 23,6 × 17,1 cm (sheet), 20,1 × 15 cm (plate)
+  date: "1595"
+  artist: Bry, Johann Theodor de
+  record_url: https://www.mkg-hamburg.de/en/object/dc00101865
+  image_url: https://www.mkg-hamburg.de/en/object/dc00101865/image-download/0
+  image_rights: LicenseRef-PDM
+  rights_url: https://creativecommons.org/publicdomain/mark/1.0/
+  source_sha256: 940798d28cbab372ff44c3b25d8e0fe4e9b6b86f816ef6190d2c12385ab60b43
+license: null

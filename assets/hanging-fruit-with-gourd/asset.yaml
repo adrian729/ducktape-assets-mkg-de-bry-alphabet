@@ -1,0 +1,48 @@
+# descriptive: find it and understand it
+id: hanging-fruit-with-gourd
+title: Hanging fruit with gourd pendant
+description: A hanging cluster of fruit engraved in brown line on a transparent background. A large round fruit at the upper left sits among a bunch of small round berries and short leaves, and a long smooth teardrop-shaped gourd hangs from it down the lower right, narrowing to a stalk at the top. On the letter B sheet this cluster hung from a hook at the upper left of the letter's strapwork.
+type: ornament
+categories:
+  - botanical
+subjects:
+  - pendant
+  - fruit
+  - berry
+colors:
+  - brown
+  - tan
+  - cream
+facing: none
+composition: single-ornament
+
+# structural: how it is organised and related
+group: null
+render:
+  image: {}
+usage_notes:
+  - Reads as a pendant, so hang it from a hook, a rule or the end of a banner rather than placing it on a baseline.
+display_width:
+  - 30
+  - 60
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: Cut from a low-resolution scan; the berry cluster is soft and a few stray dots of neighbouring ink remain around the edges.
+master: master.png
+provenance:
+  method: native-source-extraction
+  institution: Museum für Kunst und Gewerbe Hamburg
+  object_title: Der Buchstabe B, Blatt aus der Folge "Nova Alphati Effictio Historiis"
+  object_identifier: O1913.136
+  object_dimensions: 23,6 × 17,1 cm (sheet), 20,1 × 15 cm (plate)
+  date: "1595"
+  artist: Bry, Johann Theodor de
+  record_url: https://www.mkg-hamburg.de/en/object/dc00101865
+  image_url: https://www.mkg-hamburg.de/en/object/dc00101865/image-download/0
+  image_rights: LicenseRef-PDM
+  rights_url: https://creativecommons.org/publicdomain/mark/1.0/
+  source_sha256: 940798d28cbab372ff44c3b25d8e0fe4e9b6b86f816ef6190d2c12385ab60b43
+license: null
