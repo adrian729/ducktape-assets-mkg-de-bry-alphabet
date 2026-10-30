@@ -3,7 +3,7 @@
 
 Figures and ornaments cut from the sheet of the letter B in Johann Theodor de Bry's engraved alphabet series "Nova Alphati Effictio Historiis ad singulas literas correspondentibus illustrata" (Frankfurt, 1595), held by the Museum für Kunst und Gewerbe Hamburg.
 
-Part of [Ducktape Assets](https://github.com/adrian729/ducktape-assets). Set id `mkg-de-bry-alphabet`, historical, 9 assets.
+Part of [Ducktape Assets](https://github.com/adrian729/ducktape-assets). Set id `mkg-de-bry-alphabet`, historical, 9 assets, version 1.0.0.
 
 ## Licence and attribution
 
@@ -13,10 +13,10 @@ Author: adrian729. Maintainer: https://github.com/adrian729/ducktape-assets/issu
 
 ## Use one asset
 
-No version is published yet. Once it is, pin the exact version (never `@latest`); the URL scheme is:
+Pin the exact version (never `@latest`). For `mkg-de-bry-alphabet/crossed-weapons-trophy`:
 
-```
-https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-mkg-de-bry-alphabet@<version>/webp/<asset-id>-<width>.webp
+```html
+<img src="https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-mkg-de-bry-alphabet@1.0.0/webp/crossed-weapons-trophy-64.webp" alt="" loading="lazy">
 ```
 
 Package `@ranx729/ducktape-assets-mkg-de-bry-alphabet`; every file, width and format is listed in its `manifest.json`. Masters live in git under `assets/<id>/` and in `@ranx729/ducktape-assets-mkg-de-bry-alphabet-masters`; never put a master on a page.
